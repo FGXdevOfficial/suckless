@@ -1,8 +1,7 @@
 # My own suckless programs fork
-
-## Some appearance changes and patches.
- To install do a ``sudo/doas make install``
+ To install do a ``sudo/doas make install`` in it's respective directory.
  Make sure config.h is deleted every time you re-make these suckless programms.
+ I added it to the Makefile so you don't have to but always check.
 
  These include:
   - DWM (Dynamic Window Manager)
