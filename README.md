@@ -2,7 +2,6 @@
  
  Dynamic Window Manager:
  ![alt text](https://github.com/FGXdevOfficial/suckless/blob/main/pictures/full.png?raw=true)
- ![alt text] (https://github.com/FGXdevOfficial/suckless/blob/main/pictures/clean.png?raw=true)
 
  To install do a ``sudo/doas make install`` in it's respective directory.
  Make sure config.h is deleted every time you re-make these suckless programms.
