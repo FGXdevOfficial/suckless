@@ -15,6 +15,9 @@
 
   Dynamic Window Manager:
   - Patch: Gaps
+  - Patch: System Tray
+  - Bar: Font Awesome icons
+  - Script: root/scripts/dwm-iconbar: Bar with icons
   - Keybind: Mod+Shift+q to quit an application
   - Keybind: Mod+Shift+e to quit xorg
   - Keybind: Mod+Shift+f opens firefox
@@ -22,7 +25,7 @@
   - The rest are the default onces.
 
   Surf: 
-  - All the default :)
+  - All the defaults :)
 
   Tabbed: 
   - Keybind: Some of the defaults if you find anything please make a pull request
