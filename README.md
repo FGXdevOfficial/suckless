@@ -34,4 +34,3 @@
   You can contribute by sending a pull request. But please read the following:
   - Please do not change the appearance
   - Neither the keybinds. I don't care if it's "more ergonomical"
-  ![alt text](https://static.mommypoppins.com/styles/image620x420/s3/school_meme_3_1.jpg)
