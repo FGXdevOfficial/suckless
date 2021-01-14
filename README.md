@@ -26,6 +26,10 @@
   Simple Terminal:
   - Coming soon.
 
+## Forking:
+  I don't know why you would want to fork this repo but sure, go ahead. Just
+  mention that you got it from me.
+
 ## Contributing:
   You can contribute by sending a pull request. But please read the following:
   - Please do not change the appearance
