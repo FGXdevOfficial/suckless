@@ -86,7 +86,7 @@ netstat() {
 }
 
 status(){
-        echo "{ $(cpu) } | { $(mem) } | { $(kernel) } | { $(hdd) } | $(dte)"
+        echo "$(cpu) | $(mem) | $(kernel) | $(hdd) | $(dte)"
 }
 
 
