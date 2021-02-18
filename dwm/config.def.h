@@ -65,11 +65,13 @@ static const char *dmenucmd[] = { "dmenu_run", "-m", dmenumon, "-fn", dmenufont,
 static const char *termcmd[]  = { "st", NULL };
 static const char *firefox[] = { "chromium", NULL };
 static const char *thunar[] = { "thunar", NULL };
+static const char *scripts[] = { "~/.bin/scripts", NULL };
 
 static Key keys[] = {
 	/* modifier                     key        function        argument */
 	{ MODKEY,                       XK_d,      spawn,          {.v = dmenucmd } },
 	{ MODKEY,			XK_Return, spawn,          {.v = termcmd } },
+	{ MODKEY,			XK_s	   spawn	   {.v = scripts } },
 	{ MODKEY|ShiftMask,		XK_f,      spawn,          {.v = firefox } },
   	{ MODKEY|ShiftMask,             XK_t,      spawn,          {.v = thunar } },
 	{ MODKEY,                       XK_b,      togglebar,      {0} },
